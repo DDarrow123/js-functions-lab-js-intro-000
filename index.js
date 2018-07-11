@@ -13,7 +13,7 @@ function happyHolidaysTo(name){
 
 
 
-function happyHolidayTo(LaborDay, Mom){
+function happyHolidayTo(holiday, name){
 
   return `Happy ${holiday}, ${name}!`
 }
