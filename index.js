@@ -20,7 +20,7 @@ function happyHolidayTo(LaborDay, Mom){
 
 
 
-function holidayCountdown(LaborDay, 55 ){
+function holidayCountdown(LaborDay, days){
 
   return `It's ${days} days until ${holiday}!`
 }
