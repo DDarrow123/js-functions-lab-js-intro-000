@@ -13,14 +13,14 @@ function happyHolidaysTo(Mom){
 
 
 
-function happyHolidayTo(Labor Day, Mom){
+function happyHolidayTo(LaborDay, Mom){
 
   return `Happy ${holiday}, ${name}!`
 }
 
 
 
-function holidayCountdown(Labor Day, 55 ){
+function holidayCountdown(LaborDay, 55 ){
 
   return `It's ${days} days until ${holiday}!`
 }
